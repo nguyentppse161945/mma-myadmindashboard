@@ -1,0 +1,157 @@
+{
+  "Asm2": {
+    "Accounts": [
+      {
+        "password": "123456",
+        "balance": "32761.65",
+        "changes": "+20%",
+        "type": "I",
+        "username": "admin"
+      }
+    ],
+    "Foods": [
+      {
+        "data": [
+          {
+            "name": "Bruschetta",
+            "price": "$6.50"
+          },
+          {
+            "name": "Caprese Salad",
+            "price": "$8.00"
+          },
+          {
+            "name": "Arancini",
+            "price": "$7.50"
+          },
+          {
+            "name": "Calamari Fritti",
+            "price": "$9.75"
+          }
+        ],
+        "title": "Appetizers"
+      },
+      {
+        "data": [
+          {
+            "name": "Spaghetti Carbonara",
+            "price": "$14.50"
+          },
+          {
+            "name": "Lasagna",
+            "price": "$16.00"
+          },
+          {
+            "name": "Chicken Parmesan",
+            "price": "$17.25"
+          },
+          {
+            "name": "Veal Marsala",
+            "price": "$19.75"
+          }
+        ],
+        "title": "Main Courses"
+      },
+      {
+        "data": [
+          {
+            "name": "Garlic Bread",
+            "price": "$4.00"
+          },
+          {
+            "name": "Caesar Salad",
+            "price": "$6.50"
+          },
+          {
+            "name": "Sauteed Spinach",
+            "price": "$5.25"
+          },
+          {
+            "name": "Roasted Potatoes",
+            "price": "$4.75"
+          }
+        ],
+        "title": "Sides"
+      },
+      {
+        "data": [
+          {
+            "name": "Tiramisu",
+            "price": "$7.00"
+          },
+          {
+            "name": "Cannoli",
+            "price": "$5.50"
+          },
+          {
+            "name": "Gelato",
+            "price": "$6.00"
+          },
+          {
+            "name": "Affogato",
+            "price": "$5.25"
+          }
+        ],
+        "title": "Desserts"
+      }
+    ],
+    "bnb_price": "450",
+    "Coins": {
+      "data": [
+        {
+          "amount": "4130",
+          "changes": "-2.14%",
+          "currency": "Ethereum",
+          "id": 2,
+          "image": "../assets/eth.png",
+          
+          "symbol": "ETH",
+          "type": "D",
+          "wallet": {
+            "crypto": "2",
+            "value": "8200.10"
+          }
+        },
+        {
+          "amount": "501",
+          "changes": "+10.22%",
+          "currency": "Bitcoin",
+          "id": 3,
+          "image": "../assets/bitcoin.png",
+          "symbol": "BNB",
+          "type": "I",
+          "wallet": {
+            "crypto": "6.3",
+            "value": "3256"
+          }
+        },
+        {
+          "amount": "2421",
+          "changes": "+23.29%",
+          "currency": "Doge",
+          "id": 4,
+          "image": "../assets/doge.png",
+          "symbol": "Doge",
+          "type": "I",
+          "wallet": {
+            "crypto": "1203",
+            "value": "4273.10"
+          }
+        },
+        {
+          "amount": "1.23",
+          "changes": "-5.29%",
+          "currency": "Ripple",
+          "id": 5,
+          "image": "../assets/xrp.png",
+          "symbol": "XRP",
+          "type": "D",
+          "wallet": {
+            "crypto": "2800",
+            "value": "3219"
+          }
+        }
+      ]
+    }
+  }
+}
